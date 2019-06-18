@@ -1,0 +1,14 @@
+*
+!*.php
+!*.htm
+!*.html
+!*.css
+!*.xml
+!*.xsd
+!*.java
+!*.js
+!*.sql
+!*/
+!.gitignore
+.*
+php/serverConfig.php
